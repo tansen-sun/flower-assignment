@@ -1,0 +1,143 @@
+*{
+    font-family: sans-serif;
+}
+
+/* header   */
+header{
+    display: flex;
+    padding: 50px 240px;
+    background: rgba(229, 84, 115, 0.10);
+}
+.header1{
+    width: 50%;
+    padding-top: 150px;
+}
+.header2{
+    width: 50%;
+}
+.header1 h1{
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+    width: 708px;
+}
+.header1 p{
+    padding-top: 32px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    width: 634px;
+    padding-bottom: 32px;
+}
+.shop{
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    border-style: none;
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 30px;
+}
+
+
+/* main */
+
+/* our-featured */
+main{
+
+}
+.section1{
+
+}
+.section1-heading{
+    
+}
+.section1-heading h1{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+.section1-heading p{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+.flower-box{
+    padding: 50px 240px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.flower1{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 464px;
+    height: 538px;
+    padding: 110px 78px 0px 78px;
+    background-position: ;
+}
+.flower2{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    padding: 110px 78px 0px 78px;
+    width: 464px;
+    height: 538px;
+}
+.flower3{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    padding: 110px 78px 0px 78px;    width: 464px;
+    height: 538px;
+}
+.pic-cap{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 240px;
+}
+h4{
+    text-decoration-line: underline;
+    text-align: center;
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+}
+.service-div{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 240px;
+    margin: 0px 320px;
+    background: rgba(39, 39, 39, 0.05);
+}
+
+
+.icons{
+    text-align: center;
+}
+
+/* section 2 */
+
+
+.hot-deal-1 h1{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+span{
+    color: #E55473;
+    font-size: 40px;
+    font-weight: 800;
+}
+.section2{
+    padding: 100px 0px;
+}
+.sec2div{
+    display: flex;
+    justify-content: space-around;
+    padding: 100px 240px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+
+}
