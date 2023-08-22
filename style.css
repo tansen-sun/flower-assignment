@@ -125,9 +125,16 @@ h4{
     font-size: 40px;
     font-weight: 800;
 }
+.hot-deal-1 p{
+    width: 594px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
 span{
     color: #E55473;
-    font-size: 40px;
+    font-size: 48px;
     font-weight: 800;
 }
 .section2{
@@ -140,4 +147,79 @@ span{
     border-radius: 8px;
     background: rgba(229, 84, 115, 0.05);
 
+}
+/* section 3 */
+.insta-flower img{
+    width: 342px;
+    height: 396px;
+}
+.insta-flower2{
+    padding: 50px 80px;
+    display: flex;
+    justify-content: space-around;
+}
+.insta-flower h1{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+.insta-flower p{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    
+}
+
+.latest-deals{
+    padding: 50px 240px;
+
+}
+.latest-deals div{
+    background-image: url('images/Rectangle 9.png');
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 449px;
+}
+.latest-deals div h1{
+    
+    padding-top: 122px;
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+.latest-deals div p{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    
+}
+input{
+    height: 70px;
+    width: 600px;
+    border-style: none;
+}
+
+/* footer */
+
+
+footer{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    background-color: black;
+}
+footer h1{
+    font-size: 48px;
+    font-weight: 800;
+    color: #FFF;
+}
+footer p{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
 }
