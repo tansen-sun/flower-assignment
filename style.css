@@ -223,3 +223,33 @@ footer p{
     font-size: 18px;
     font-weight: 400;
 }
+
+/* bonus part */
+
+.buy1-gate1{
+    padding: 50px 240px;
+    background-color: rgb(215, 246, 255);
+    
+}
+.buy1-gate1 h1{
+    text-align: center;
+    font-size: 48px;
+    font-weight: 800;
+    color: #E55473;
+}
+.buy1-gate1 p{
+    color: rgba(0, 0, 0, 0.9);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    padding-bottom: 30px;
+    
+}
+.bonusimg{
+    display: flex;
+    justify-content: space-around;
+}
+.bonusimg img{
+    height: 400px;
+    width: 400px;
+}
